@@ -455,7 +455,7 @@ body {
   #hero {
     width: 100%;
     height: 100vh;
-    background: url("../img/lounge.jpg") bottom center;
+    background: url("lounge.jpg") bottom center;
     background-size: cover;
     position: relative;
     padding: 0;
